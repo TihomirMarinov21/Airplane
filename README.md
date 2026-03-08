@@ -71,24 +71,18 @@ Each crew member has randomly generated:
 # 🖼 Demo
 
 ## Main Interface
-![Main UI](images/main_ui.png)
-
----
+<img width="753" height="681" alt="Screenshot 2026-03-08 100632" src="https://github.com/user-attachments/assets/166c2597-c530-42ec-9d9b-4e58726ebf35" />
 
 ## Passenger Registration Dialog
-![Dialog](images/dialog.png)
-
----
+<img width="722" height="949" alt="Screenshot 2026-03-08 100424" src="https://github.com/user-attachments/assets/d917d22c-b530-460b-9991-16189a49fb76" />
 
 ## Passenger Table
-![Passenger Table](images/passenger_table.png)
-
----
+<img width="743" height="760" alt="Screenshot 2026-03-08 100510" src="https://github.com/user-attachments/assets/8c359a6a-fac9-48b5-ada6-bf2ef4ed3ede" />
 
 ## Flight Simulation
-![Flight Simulation](images/flight.gif)
-
----
+<img width="446" height="187" alt="Screenshot 2026-03-08 100534" src="https://github.com/user-attachments/assets/897b94b0-1c17-414f-b4fb-af2eeddea541" />
+<img width="365" height="155" alt="Screenshot 2026-03-08 100557" src="https://github.com/user-attachments/assets/5e88b765-2000-4e18-bdcb-421d6bc73904" />
+<img width="345" height="124" alt="Screenshot 2026-03-08 100611" src="https://github.com/user-attachments/assets/47f9162f-b6d2-4d57-b829-5e2b5099dc17" />
 
 # 🛠 Technologies Used
 
